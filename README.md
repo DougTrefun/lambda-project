@@ -2,8 +2,10 @@
 Repository for my take home assignment for Jasper Health
 
 * Terraform Cloud https://app.terraform.io
+* Terraform Registry for Providers and Modules https://registry.terraform.io/
 * VScode
 * AWS Lambda
+* AWS API Gateway
 
 1. Create your Workspace on Terraform
 2. Included access keys as secret variables within Terraform Cloud.
